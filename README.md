@@ -1,10 +1,13 @@
 <h1>Sistema de registros</h1>
 - Estado del proyecto: En desarrollo
 Para ejecutar el sistema, debes poner:
-``` npm install react ```
+
+
 ```
 Give examples
 ```
+
+
 # Project Title
 
 One Paragraph of project description goes here
